@@ -1,4 +1,4 @@
-# handheld-recognition
+# graspix: handheld-recognition
 
 
 **Problem Statement**: To detect hands, objects and classify the actions as handheld or not using images.
