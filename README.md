@@ -1,5 +1,7 @@
 # graspix: handheld-recognition
 
+graspix (grasp + pixels): A deep learning-based system for identifying hand-held objects and classifying grasp interactions. Built using yolov5s and custom classification layers to recognize household items held in hand.  
+Applications: Human-computer interaction, robotics and assistive technology.
 
 **Problem Statement**: To detect hands, objects and classify the actions as handheld or not using images.
 
