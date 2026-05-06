@@ -16,8 +16,8 @@ Applications: Human-computer interaction, robotics and assistive technology.
 
 1. **Data**
 
-    - Used roboflow to build dataset from different collections. The image data comprises of 3 variations: 1. Hands, 2. Household Objects and 3. Hands holding objects.
-    - Curation also includes around 50 custom images captured of hand and objects
+    - Used Roboflow to annotate the dataset from different collections. The image data comprises 3 variations: 1. Hands, 2. Household Objects and 3. Hands holding objects.
+    - Annotation also includes around 50 custom images captured by hand and objects
     - Link to dataset curated, https://app.roboflow.com/dsprojects-1ey6h/hand-object-grasp/6
         - Training: 620
         - Valid: 68
